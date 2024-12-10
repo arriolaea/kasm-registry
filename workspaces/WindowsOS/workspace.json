@@ -1,7 +1,7 @@
 {
   "description": "Windows is an operating system, developed and maintained by Microsoft.",
   "docker_registry": "https://index.docker.io/v1/",
-  "image_src": "windows-os.png",
+  "image_src": "windowsos.png",
   "name": "dockurr/windows",
   "run_config": {
     "hostname": "kasm"
