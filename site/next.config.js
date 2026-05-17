@@ -2,7 +2,7 @@
 
 const nextConfig = {
   output: 'export',
-  distDir: '../public',
+  distDir: '.next/export',
   env: {
     name: 'Kasm Technologies',
     description: 'The official store for Kasm supported workspaces.',
